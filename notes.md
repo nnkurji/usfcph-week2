@@ -8,3 +8,7 @@ h1 (heading-most important)...h6 (least imporant)
 meta data <head> + <meta> this is extra information that is not seen by user
 links <a>
 class="my-button" defines how to link the structure to the style 
+
+
+CSS can be more detailed. 
+Bulma can be even more detailed. 
